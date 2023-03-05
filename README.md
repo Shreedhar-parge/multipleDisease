@@ -1,1 +1,1 @@
-# multipleDisiease
+# multipleDisease
